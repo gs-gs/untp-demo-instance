@@ -187,7 +187,7 @@
                         }
                       },
                       "conformityEvidence": {
-                        "linkURL": "https://battery-manufacturer.example.com/evidence/iso14001-certificate.pdf",
+                        "linkURL": "https://example.com/evidence/iso14001-certificate.pdf",
                         "linkName": "ISO 14001:2015 Certificate"
                       }
                     },
